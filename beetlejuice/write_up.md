@@ -19,4 +19,4 @@ This will spit out the password "qwertyuiop" which can be found as the second to
 This will give you a PNG file called "BeetlejuiceBeetlejuice".
 
 ## Finding the Flag
-Now that you have the PNG file, the next step is to find the flag. The flag is hidden in the Least Significant Bit (LSB) and can be discovered, either by creating a script to read the data contained in the LSB or use 'Extract LSB' option on CyberChef (cyberchef.org)
+Now that you have the PNG file, the next step is to find the flag. The flag is hidden in the Least Significant Bit (LSB) and can be discovered, either by creating a script to read the data contained in the LSB or use 'Extract LSB' option on CyberChef ([cyberchef.org](cyberchef.org))
